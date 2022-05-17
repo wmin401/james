@@ -1,3 +1,3 @@
 # wmin401.github.io/james/
-# I would like to share all of my things here.
+Above address is my blog address. I will decorate it soon and share all of technical information here.
 
